@@ -1,0 +1,13 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+  "content": "Test note from rest client plugin vscode"
+}
+
+###
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+}
